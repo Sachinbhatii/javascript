@@ -3,7 +3,6 @@ let a, b, rest;
 
 console.log(a);
 
-console.log(b);
 
 [a, b, ...rest] = [10, 20, 30, 40, 50];
 
