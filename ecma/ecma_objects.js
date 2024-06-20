@@ -11,7 +11,7 @@ const walk = demoObj.walk.bind(demoObj.walk)
 
 const carObjects = {
     audi() {
-        console.log('audi');
+        console.log('car : '+'audi');
     },
     bmw() {
         console.log(this);
